@@ -1,0 +1,1 @@
+[![Travis build status](https://travis-ci.org/dhruvrc/STAT302Package.svg?branch=master)](https://travis-ci.org/dhruvrc/STAT302Package)
