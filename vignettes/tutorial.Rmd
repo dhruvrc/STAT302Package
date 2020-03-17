@@ -15,6 +15,16 @@ knitr::opts_chunk$set(
 )
 ```
 
+# Introduction
+
+This R package is a compilation of various statistical functions that I wrote for my Statistics 302 class at the University of Washington. 
+
+Install this package using the following code:
+```{r, eval = FALSE}
+devtools::install_github("dhruvrc/STAT302Package")
+```
+
+
 ```{r setup}
 library(STAT302Package)
 ```
