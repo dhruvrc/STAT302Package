@@ -15,7 +15,7 @@ To view the vignette, use the following code:
 # install.packages("devtools")
 devtools::install_github("dhruvrc/STAT302Package", build_vignette = TRUE, build_opts = c())
 library(STAT302Package)
-# Use this to view the vignette in the Demo HTML help
+# Use this to view the vignette in the STAT302Package HTML help
 help(package = "STAT302Package", help_type = "html")
 # Use this to view the vignette as an isolated HTML file
 utils::browseVignettes(package = "STAT302Package")
