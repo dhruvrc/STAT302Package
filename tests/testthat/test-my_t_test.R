@@ -1,3 +1,3 @@
-test_that("multiplication works", {
-  expect_equal(2 * 2, 4)
+test_that("incorrect string throws error", {
+  expect_error(my_t.test(1:10, "a string", 5))
 })

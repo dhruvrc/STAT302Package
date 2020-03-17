@@ -21,3 +21,8 @@ parameter, and the numeric p-value.
 \description{
 This function performs a one sample t-test in R.
 }
+\examples{
+my_t.test(1:10, "two-sided", 5)
+
+}
+\keyword{inference}
